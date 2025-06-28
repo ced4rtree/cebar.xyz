@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home
 description: Cedar's Silly Site
 ---
 
