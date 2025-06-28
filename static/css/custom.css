@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.text {
+    width: 50%;
+    margin: 5px;
+}
+
+.headshot {
+    width: 50%;
+    margin: 5px
+}

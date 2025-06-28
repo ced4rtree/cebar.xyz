@@ -1,0 +1,24 @@
+baseURL = 'https://cebar.xyz'
+languageCode = 'en-us'
+title = 'sibɚ'
+theme = 'risotto'
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+
+[params.about]
+title = "cebar.xyz"
+description = "Cedar's Silly Site. Pronounced sibɚ"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/ced4rtree/"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:cedar@cebar.xyz"
