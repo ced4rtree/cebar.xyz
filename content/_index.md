@@ -18,5 +18,9 @@ lower level projects. Some of the things I like include:
 - Video Games
 - Desktop Ricing
 - FIRST Robotics
+- Free software
+
+Check out some of my [posts](/posts/) if you're interested! I promise I'm not
+that bad at writing.
     </div>
 </div>
