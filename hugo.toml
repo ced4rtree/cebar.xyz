@@ -20,8 +20,6 @@ series = "series"
 [markup.goldmark.renderer]
 unsafe = true
 
-[params]
-
 [params.about]
 title = "cebar.xyz"
 description = "Cedar's Silly Site. Pronounced sibɚ"
