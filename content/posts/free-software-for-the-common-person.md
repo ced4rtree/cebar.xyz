@@ -29,33 +29,33 @@ more data harvested from these people.
 
 A common complaint I hear from my friends, family, peers, and strangers, is that
 privacy is dead, so why should they care about their privacy at all? The thought
-such a crucial, basic human right is being violated so outright, and people not
-only know about it, but *don't even care* sickens me. Your privacy is
-your right, and the tech monopolies that have abused consumers for decades have
-taken that from nearly everyone. Sitting back and taking it is letting them win,
+that such a crucial, basic human right is being violated so outright, and people
+not only know about it, but *don't even care* sickens me. Your privacy is your
+right, and the tech monopolies that have abused consumers for decades have taken
+that from nearly everyone. Sitting back and taking it is letting them win,
 letting them have control and take over our lives, our governments, our
 communities, everything.
 
 Google sells Chromebooks to almost every school in the United States, has them
 on contracts with Google Classroom, have the schools issue out Google accounts
 for students. Microsoft has contracts with nearly every hardware manufacturer on
-the planet to install windows on their computers. Apple has created a walled
+the planet to install Windows on their computers. Apple has created a walled
 garden suite of software and hardware that is extremely difficult to break out
 of because they convince their customers that Apple products are simply the best
 out there, and they condition their users into being comfortable with the notion
 of not knowing how their phone works, what's running on it, or having any
 control at all.
 
-But that's what want, isn't it? Control. That's what these ginormous tech
+But that's what they want, isn't it? Control? That's what these ginormous tech
 companies have fought for over the course of decades, spent billions of dollars
 on, is to maintain control. Control over your hardware, your software, your
 autonomy, everything. Apple will [disable parts of your phone if you get a third
 party
 repair.](https://www.reddit.com/r/iphone/comments/pw878u/face_id_stops_working_if_you_replace_the_iphone/)
 When Microsoft knew it needed to kill software that treated users properly, like
-linux (an operating system that grants you *actual* freedom to use your
-computer how you would like), in order to stay afloat, they adopted the internal
-phrase [Embrace, Extend,
+linux (an operating system that grants you *actual* freedom to use your computer
+how you would like), in order to stay afloat, they adopted the internal phrase
+[Embrace, Extend,
 Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) to
 describe their plan to kill user-respecting, open standards.
 
