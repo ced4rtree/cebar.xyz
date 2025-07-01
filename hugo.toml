@@ -3,6 +3,19 @@ languageCode = 'en-us'
 title = 'sibɚ'
 theme = 'risotto'
 
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+summaryLength = 50
+
+[pagination]
+pagerSize = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
