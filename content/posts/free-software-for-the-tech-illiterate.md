@@ -1,6 +1,6 @@
 +++
 date = '2025-07-01T12:43:59-06:00'
-title = 'Free Software for the Common Person'
+title = 'Free Software for the Tech Illiterate'
 +++
 
 In the olden times, the good times, the bad times, the 60's, the computer was a
