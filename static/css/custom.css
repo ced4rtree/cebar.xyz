@@ -18,5 +18,7 @@
 }
 
 #like-list {
-    padding-inline-start: 55%;
+    /* padding-inline-start: 55%; */
+    position: relative;
+    left: 7%;
 }
