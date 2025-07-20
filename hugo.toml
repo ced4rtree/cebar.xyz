@@ -8,6 +8,14 @@ sectionPagesMenu = "main"
 
 summaryLength = 50
 
+
+[menu]
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
+
 [pagination]
 pagerSize = 3
 
