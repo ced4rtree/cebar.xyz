@@ -1,13 +1,22 @@
 .container {
     display: flex;
+    /* align-items: flex-start; */
 }
 
 .text {
     width: 50%;
+    float: right;
     margin: 5px;
 }
 
 .headshot {
+    float: left;
     width: 50%;
+    height: 100%;
+    aspect-ratio: 1 / 1;
     margin: 5px
+}
+
+#like-list {
+    padding-inline-start: 55%;
 }
