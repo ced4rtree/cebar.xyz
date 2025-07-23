@@ -22,8 +22,12 @@ description: Cedar's Silly Site
             <li>Free software</li>
         </ul>
         <p>
-            Check out some of my <a href="/posts/">posts</a> if you're interested! I promise I'm not
-            that bad at writing.
+            Check out some of my <a href="/posts/">posts</a> if you're
+            interested! I promise I'm not that bad at writing.
+        </p>
+        <p>
+            Alternatively, take a look at some of the
+            <a href="/projects/">projects</a> I've developed over the years.
         </p>
     </div>
 </section>
